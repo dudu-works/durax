@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-balance-v10/spritesheet-extended-final.webp",
+  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-idle-left-v11/spritesheet-extended-final.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -17,7 +17,7 @@
       "row": 0,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 19570,
+      "nontransparent_pixels": 17655,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -26,7 +26,7 @@
       "row": 0,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 19134,
+      "nontransparent_pixels": 17546,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -35,7 +35,7 @@
       "row": 0,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 19112,
+      "nontransparent_pixels": 17489,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -44,7 +44,7 @@
       "row": 0,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 19841,
+      "nontransparent_pixels": 17487,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -53,7 +53,7 @@
       "row": 0,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 19063,
+      "nontransparent_pixels": 17509,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -62,7 +62,7 @@
       "row": 0,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 18841,
+      "nontransparent_pixels": 17506,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
