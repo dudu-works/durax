@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-infinity-mouth-tongue-v13/spritesheet-extended-final.webp",
+  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-natural-ratios-look-v14/spritesheet-extended-final.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -17,7 +17,7 @@
       "row": 0,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 17655,
+      "nontransparent_pixels": 15652,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -26,7 +26,7 @@
       "row": 0,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 17546,
+      "nontransparent_pixels": 16008,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -35,7 +35,7 @@
       "row": 0,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 17489,
+      "nontransparent_pixels": 15783,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -44,7 +44,7 @@
       "row": 0,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 17487,
+      "nontransparent_pixels": 14878,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -53,7 +53,7 @@
       "row": 0,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 17509,
+      "nontransparent_pixels": 15830,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -62,7 +62,7 @@
       "row": 0,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 17506,
+      "nontransparent_pixels": 15621,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -305,7 +305,7 @@
       "row": 4,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 20565,
+      "nontransparent_pixels": 19201,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -314,7 +314,7 @@
       "row": 4,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 20566,
+      "nontransparent_pixels": 18968,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -323,7 +323,7 @@
       "row": 4,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 20645,
+      "nontransparent_pixels": 19069,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -332,7 +332,7 @@
       "row": 4,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 20585,
+      "nontransparent_pixels": 19004,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -341,7 +341,7 @@
       "row": 4,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 20438,
+      "nontransparent_pixels": 19048,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -377,7 +377,7 @@
       "row": 5,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 17337,
+      "nontransparent_pixels": 16839,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -386,7 +386,7 @@
       "row": 5,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 17163,
+      "nontransparent_pixels": 16841,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -395,7 +395,7 @@
       "row": 5,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 17281,
+      "nontransparent_pixels": 16852,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -404,7 +404,7 @@
       "row": 5,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 17144,
+      "nontransparent_pixels": 16882,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -413,7 +413,7 @@
       "row": 5,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 17078,
+      "nontransparent_pixels": 16827,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -422,7 +422,7 @@
       "row": 5,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 17080,
+      "nontransparent_pixels": 16804,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -431,7 +431,7 @@
       "row": 5,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 17144,
+      "nontransparent_pixels": 16784,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -440,7 +440,7 @@
       "row": 5,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 17125,
+      "nontransparent_pixels": 16860,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -593,7 +593,7 @@
       "row": 8,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 21521,
+      "nontransparent_pixels": 17190,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -602,7 +602,7 @@
       "row": 8,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 21533,
+      "nontransparent_pixels": 17117,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -611,7 +611,7 @@
       "row": 8,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 21439,
+      "nontransparent_pixels": 17038,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -620,7 +620,7 @@
       "row": 8,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 21479,
+      "nontransparent_pixels": 17116,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -629,7 +629,7 @@
       "row": 8,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 21389,
+      "nontransparent_pixels": 17065,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -638,7 +638,7 @@
       "row": 8,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 21500,
+      "nontransparent_pixels": 17127,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
