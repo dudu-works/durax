@@ -4,6 +4,8 @@
 
 귀여운 캐릭터나 일러스트가 아니라 짧고 둥근 실제 바위너구리의 생김새를 유지했습니다. 입을 벌리는 동작에서는 작은 앞니가 보이고, 대기 동작에서는 혀를 짧게 내밉니다.
 
+마우스를 올리면 뛰지 않고 정면으로 눈을 맞춘 채 `아와와` 소리치는 동작을 합니다. 입을 양옆으로 벌린 첫 발화 뒤, 입을 닫지 않은 채 들숨을 거쳐 두 번째 `와와`를 길게 발화하고 마지막에만 입을 닫습니다.
+
 ![Idle animation](preview/idle.gif)
 
 ## 특징
@@ -11,6 +13,8 @@
 - Codex pet sprite version 2
 - 8열 11행, 1536 x 2288 WebP spritesheet
 - idle 동작 뒤에 같은 기본 자세로 복귀
+- 마우스 hover 시 정면을 보며 `아와와` 하는 동작
+- 입을 연 채 첫 발화, 들숨, 두 번째 긴 발화로 이어지는 동작
 - 작은 앞니와 혀 동작
 - 검정색과 흰색 배경에서 모두 보이는 이중 외곽선
 - 모든 프레임에 최소 9px 투명 여백
@@ -39,6 +43,14 @@ cp durax/spritesheet.webp ~/.codex/pets/durax/spritesheet.webp
 ![Outline contrast](preview/outline-contrast.png)
 
 ### 입과 혀 동작
+
+마우스 hover:
+
+![Hover shout animation](preview/hover-shout.gif)
+
+새 응답 도착:
+
+![Ready shout animation](preview/ready-shout.gif)
 
 ![Waiting animation](preview/waiting.gif)
 
