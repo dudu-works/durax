@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-shout-v7/spritesheet-extended-final.webp",
+  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-tongue-v8/spritesheet-extended-final.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -377,7 +377,7 @@
       "row": 5,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 22193,
+      "nontransparent_pixels": 18526,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -386,7 +386,7 @@
       "row": 5,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 21158,
+      "nontransparent_pixels": 18101,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -395,7 +395,7 @@
       "row": 5,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 19579,
+      "nontransparent_pixels": 17775,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -404,7 +404,7 @@
       "row": 5,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 17833,
+      "nontransparent_pixels": 17604,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -413,7 +413,7 @@
       "row": 5,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 18381,
+      "nontransparent_pixels": 18034,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -422,7 +422,7 @@
       "row": 5,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 18481,
+      "nontransparent_pixels": 17334,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -431,7 +431,7 @@
       "row": 5,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 20391,
+      "nontransparent_pixels": 17380,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -440,7 +440,7 @@
       "row": 5,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 21370,
+      "nontransparent_pixels": 17256,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },

@@ -2,7 +2,7 @@
 
 `dudu`의 `hyrax`, `durax`입니다. 평범하고 실제 동물처럼 생긴 바위너구리 Codex pet입니다.
 
-귀여운 캐릭터나 일러스트가 아니라 짧고 둥근 실제 바위너구리의 생김새를 유지했습니다. 입을 벌리는 동작에서는 작은 앞니가 보이고, 대기 동작에서는 혀를 짧게 내밉니다.
+귀여운 캐릭터나 일러스트가 아니라 짧고 둥근 실제 바위너구리의 생김새를 유지했습니다. 입을 벌리는 동작에서는 작은 앞니가 보이고, 납작하게 앉은 동작에서는 몸을 고정한 채 혀를 길게 낼름거립니다.
 
 마우스를 올리면 뛰지 않고 정면으로 눈을 맞춘 채 `아와와` 소리치는 동작을 합니다. 입을 양옆으로 벌린 첫 발화 뒤, 입을 닫지 않은 채 들숨을 거쳐 두 번째 `와와`를 길게 발화하고 마지막에만 입을 닫습니다.
 
@@ -16,8 +16,9 @@
 - 마우스 hover 시 정면을 보며 `아와와` 하는 동작
 - 입을 연 채 첫 발화, 들숨, 두 번째 긴 발화로 이어지는 동작
 - 작은 앞니와 혀 동작
+- 한 번 납작하게 앉은 뒤 높이 변화 없이 혀를 길게 내밀었다가 거두는 동작
 - 검정색과 흰색 배경에서 모두 보이는 이중 외곽선
-- 모든 프레임에 최소 9px 투명 여백
+- 모든 프레임에 최소 8px 투명 여백
 
 ## 설치
 
@@ -52,6 +53,10 @@ cp durax/spritesheet.webp ~/.codex/pets/durax/spritesheet.webp
 
 ![Ready shout animation](preview/ready-shout.gif)
 
+납작하게 앉아 혀 낼름거리기:
+
+![Flat tongue animation](preview/failed-tongue.gif)
+
 ![Waiting animation](preview/waiting.gif)
 
 ![Running animation](preview/running.gif)
@@ -69,4 +74,4 @@ cp durax/spritesheet.webp ~/.codex/pets/durax/spritesheet.webp
 - atlas 오류 0건
 - atlas 경고 0건
 - 투명 픽셀 RGB 잔여 0개
-- 사용된 74개 셀의 최소 여백 9px
+- 사용된 74개 셀의 최소 여백 8px
