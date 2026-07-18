@@ -1,0 +1,7 @@
+{
+  "algorithm": "shared 0.90 cell inset, 2px dark outer and 1px light inner outline",
+  "targetMinimumMarginPx": 8,
+  "actualMinimumMarginPx": 9,
+  "populatedCells": 74,
+  "passed": true
+}
