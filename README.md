@@ -20,7 +20,7 @@
 macOS 또는 Linux 터미널에서 다음 명령을 실행합니다.
 
 ```sh
-git clone https://github.com/haneol-dodo/durax.git
+git clone https://github.com/dudu-works/durax.git
 mkdir -p ~/.codex/pets/durax
 cp durax/pet.json ~/.codex/pets/durax/pet.json
 cp durax/spritesheet.webp ~/.codex/pets/durax/spritesheet.webp
