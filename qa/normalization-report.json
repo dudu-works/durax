@@ -1,0 +1,112 @@
+[
+  {
+    "row": 0,
+    "frames": 6,
+    "min_scale": 0.907629,
+    "max_scale": 0.911183,
+    "target_area": 18200,
+    "min_area": 18183,
+    "max_area": 18400,
+    "mean_area": 18277
+  },
+  {
+    "row": 1,
+    "frames": 8,
+    "min_scale": 1.017018,
+    "max_scale": 1.156627,
+    "target_area": 18200,
+    "min_area": 16272,
+    "max_area": 18565,
+    "mean_area": 17766
+  },
+  {
+    "row": 2,
+    "frames": 8,
+    "min_scale": 1.017018,
+    "max_scale": 1.156627,
+    "target_area": 18200,
+    "min_area": 16272,
+    "max_area": 18565,
+    "mean_area": 17766
+  },
+  {
+    "row": 3,
+    "frames": 4,
+    "min_scale": 0.947051,
+    "max_scale": 0.962275,
+    "target_area": 18200,
+    "min_area": 18200,
+    "max_area": 18319,
+    "mean_area": 18258
+  },
+  {
+    "row": 4,
+    "frames": 5,
+    "min_scale": 0.953106,
+    "max_scale": 0.969228,
+    "target_area": 18200,
+    "min_area": 18193,
+    "max_area": 18260,
+    "mean_area": 18225
+  },
+  {
+    "row": 5,
+    "frames": 8,
+    "min_scale": 1.026186,
+    "max_scale": 1.029437,
+    "target_area": 18200,
+    "min_area": 18232,
+    "max_area": 18306,
+    "mean_area": 18273
+  },
+  {
+    "row": 6,
+    "frames": 6,
+    "min_scale": 0.845569,
+    "max_scale": 0.849331,
+    "target_area": 18200,
+    "min_area": 18253,
+    "max_area": 18342,
+    "mean_area": 18307
+  },
+  {
+    "row": 7,
+    "frames": 6,
+    "min_scale": 0.883334,
+    "max_scale": 0.890308,
+    "target_area": 18200,
+    "min_area": 18232,
+    "max_area": 18389,
+    "mean_area": 18337
+  },
+  {
+    "row": 8,
+    "frames": 6,
+    "min_scale": 1.01374,
+    "max_scale": 1.018902,
+    "target_area": 18200,
+    "min_area": 18130,
+    "max_area": 18261,
+    "mean_area": 18199
+  },
+  {
+    "row": 9,
+    "frames": 8,
+    "min_scale": 1.233972,
+    "max_scale": 1.351598,
+    "target_area": 15000,
+    "min_area": 14955,
+    "max_area": 15093,
+    "mean_area": 15021
+  },
+  {
+    "row": 10,
+    "frames": 8,
+    "min_scale": 1.212025,
+    "max_scale": 1.280369,
+    "target_area": 15000,
+    "min_area": 14959,
+    "max_area": 15118,
+    "mean_area": 15044
+  }
+]
