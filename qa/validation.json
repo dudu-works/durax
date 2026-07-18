@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-natural-ratios-look-v14/spritesheet-extended-final.webp",
+  "file": "/Users/user/Documents/Codex/2026-07-18/create-a-pet-based-on-what/outputs/real-hyrax-run/repair-awawa-breath-v15/spritesheet-extended-final.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -305,7 +305,7 @@
       "row": 4,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 19201,
+      "nontransparent_pixels": 19524,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -314,7 +314,7 @@
       "row": 4,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 18968,
+      "nontransparent_pixels": 19360,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -323,7 +323,7 @@
       "row": 4,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 19069,
+      "nontransparent_pixels": 19548,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -332,7 +332,7 @@
       "row": 4,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 19004,
+      "nontransparent_pixels": 19389,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -341,7 +341,7 @@
       "row": 4,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 19048,
+      "nontransparent_pixels": 19322,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
