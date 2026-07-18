@@ -1,7 +1,7 @@
 {
-  "id": "tether",
-  "displayName": "바위너구리",
-  "description": "그냥 바위너구리. 왁왁거리면 하찮은 앞니가 보이고 가끔 혀를 낼름거린다.",
+  "id": "durax",
+  "displayName": "durax",
+  "description": "dudu의 hyrax. 그냥 바위너구리. 왁왁거리면 하찮은 앞니가 보이고 가끔 혀를 낼름거린다.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

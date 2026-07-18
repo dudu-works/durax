@@ -1,6 +1,6 @@
-# Rock Hyrax Codex Pet
+# durax
 
-평범하고 실제 동물처럼 생긴 바위너구리 Codex pet입니다.
+`dudu`의 `hyrax`, `durax`입니다. 평범하고 실제 동물처럼 생긴 바위너구리 Codex pet입니다.
 
 귀여운 캐릭터나 일러스트가 아니라 짧고 둥근 실제 바위너구리의 생김새를 유지했습니다. 입을 벌리는 동작에서는 작은 앞니가 보이고, 대기 동작에서는 혀를 짧게 내밉니다.
 
@@ -20,13 +20,13 @@
 macOS 또는 Linux 터미널에서 다음 명령을 실행합니다.
 
 ```sh
-git clone https://github.com/haneol-dodo/rock-hyrax-codex-pet.git
-mkdir -p ~/.codex/pets/tether
-cp rock-hyrax-codex-pet/pet.json ~/.codex/pets/tether/pet.json
-cp rock-hyrax-codex-pet/spritesheet.webp ~/.codex/pets/tether/spritesheet.webp
+git clone https://github.com/haneol-dodo/durax.git
+mkdir -p ~/.codex/pets/durax
+cp durax/pet.json ~/.codex/pets/durax/pet.json
+cp durax/spritesheet.webp ~/.codex/pets/durax/spritesheet.webp
 ```
 
-그다음 Codex에서 pet을 `tether`로 선택합니다. 이미 Codex가 실행 중이라면 앱을 다시 시작합니다.
+그다음 Codex에서 pet을 `durax`로 선택합니다. 이미 Codex가 실행 중이라면 앱을 다시 시작합니다.
 
 ## 미리보기
 
@@ -58,4 +58,3 @@ cp rock-hyrax-codex-pet/spritesheet.webp ~/.codex/pets/tether/spritesheet.webp
 - atlas 경고 0건
 - 투명 픽셀 RGB 잔여 0개
 - 사용된 74개 셀의 최소 여백 9px
-
